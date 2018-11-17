@@ -1,2 +1,2 @@
 # HelloWord
-Try
+Understanding how it works
